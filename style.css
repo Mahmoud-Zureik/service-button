@@ -157,7 +157,7 @@ a {
   width: 87%;
   border: 4px dotted blue;
   padding: 10px;
-  margin-top: 40px;
+  margin-top: 60px;
   color: #B806E0;
   transition: 0.5s;
 }
@@ -190,6 +190,9 @@ a {
 #div5 #p2 {
   margin: 20px;
   margin-top: 20px;
+  font-size: 11px;
+  color: gray;
+}
   font-size: 11px;
   color: gray;
 }
